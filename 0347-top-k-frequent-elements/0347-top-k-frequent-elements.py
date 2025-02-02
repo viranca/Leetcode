@@ -3,4 +3,3 @@ class Solution:
         counts = Counter(nums).most_common(k)
         ans = [key[0] for key in counts[:k]]
         return ans
-        
