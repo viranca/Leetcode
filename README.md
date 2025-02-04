@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viranca/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/viranca/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viranca/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viranca/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/viranca/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/viranca/Leetcode/tree/master/0271-encode-and-decode-strings) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
