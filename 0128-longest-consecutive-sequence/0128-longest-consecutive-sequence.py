@@ -14,6 +14,6 @@ class Solution:
                 res_list.append(res)
                 res = 1
         res_list.append(res)
-        print(res_list)
+       
         return max(res_list)
 
