@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viranca/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/viranca/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/viranca/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/viranca/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/viranca/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/viranca/Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
