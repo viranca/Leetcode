@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/viranca/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/viranca/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/viranca/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/viranca/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
