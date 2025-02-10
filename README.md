@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viranca/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -144,4 +145,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
