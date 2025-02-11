@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/viranca/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/viranca/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viranca/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/viranca/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/viranca/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
@@ -156,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/viranca/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
