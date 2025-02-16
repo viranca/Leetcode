@@ -11,15 +11,10 @@ values = {
 
 class Solution:
     def romanToInt(self, s: str) -> int:
-        total = 0
-        i = 0
-        while i < len(s):
-            # If this is the subtractive case.
-            if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
-                total += values[s[i + 1]] - values[s[i]]
-                i += 2
-            # Else this is NOT the subtractive case.
+        total = values.get(s[-1])
+        for i in reversed(range(len(s) - 1)):
+            if values[s[i]] < values[s[i + 1]]:
+                total -= values[s[i]]
             else:
                 total += values[s[i]]
-                i += 1
         return total
