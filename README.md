@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/viranca/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/viranca/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/viranca/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viranca/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/viranca/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/viranca/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/viranca/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
