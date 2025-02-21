@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/viranca/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/viranca/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viranca/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/viranca/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/viranca/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/viranca/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
