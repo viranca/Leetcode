@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/viranca/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/viranca/Leetcode/tree/master/0409-longest-palindrome) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## String
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/viranca/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viranca/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/viranca/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 ## Quickselect
 |  |
 | ------- |
