@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
