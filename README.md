@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/viranca/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viranca/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -232,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/viranca/Leetcode/tree/master/0136-single-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
