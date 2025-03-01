@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/viranca/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Tree
 |  |
 | ------- |
@@ -118,12 +119,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viranca/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/viranca/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viranca/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/viranca/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viranca/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/viranca/Leetcode/tree/master/0541-reverse-string-ii) |
+| [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
