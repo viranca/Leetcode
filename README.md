@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/viranca/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viranca/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/viranca/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/viranca/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/viranca/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/viranca/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/viranca/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
 |  |
