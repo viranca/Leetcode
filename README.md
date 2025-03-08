@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
