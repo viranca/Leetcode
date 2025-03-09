@@ -275,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0278-first-bad-version](https://github.com/viranca/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/viranca/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/viranca/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
