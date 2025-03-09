@@ -1,10 +1,6 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        seen = []
-        for row in edges:
-            for node in row:
-                if node in seen:
-                    return node
-                seen.append(node)
-                
+        
+        first_edge, second_edge = edges[0], edges[1]
+        return first_edge[0] if first_edge[0] in second_edge else first_edge[1] 
 
