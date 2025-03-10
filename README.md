@@ -90,12 +90,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/viranca/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/viranca/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/viranca/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viranca/Leetcode/tree/master/0547-number-of-provinces) |
+| [0975-range-sum-of-bst](https://github.com/viranca/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/viranca/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/viranca/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/viranca/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -287,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/viranca/Leetcode/tree/master/0547-number-of-provinces) |
 | [1916-find-center-of-star-graph](https://github.com/viranca/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/viranca/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/viranca/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
