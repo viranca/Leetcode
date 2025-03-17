@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/viranca/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viranca/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/viranca/Leetcode/tree/master/0338-counting-bits) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/viranca/Leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Binary Search
 |  |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/viranca/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/viranca/Leetcode/tree/master/0338-counting-bits) |
 ## Doubly-Linked List
 |  |
 | ------- |
