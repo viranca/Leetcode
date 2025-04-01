@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/viranca/Leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/viranca/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
+| [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/viranca/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
+| [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/viranca/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
+| [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/viranca/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/viranca/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
+| [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/viranca/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Union Find
