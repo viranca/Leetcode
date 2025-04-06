@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/viranca/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/viranca/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viranca/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/viranca/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/viranca/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/viranca/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/viranca/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/viranca/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/viranca/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viranca/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/viranca/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/viranca/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/viranca/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/viranca/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/viranca/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/viranca/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viranca/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/viranca/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/viranca/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/viranca/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/viranca/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/viranca/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/viranca/Leetcode/tree/master/0338-counting-bits) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/viranca/Leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
