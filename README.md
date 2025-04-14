@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/viranca/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/viranca/Leetcode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/viranca/Leetcode/tree/master/1656-count-good-triplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Hash Function
 |  |
