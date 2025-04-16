@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/viranca/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/viranca/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/viranca/Leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/viranca/Leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
 ## String
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/viranca/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
