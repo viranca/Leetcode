@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/viranca/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viranca/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/viranca/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0243-shortest-word-distance](https://github.com/viranca/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0271-encode-and-decode-strings](https://github.com/viranca/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/viranca/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/viranca/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/viranca/Leetcode/tree/master/0242-valid-anagram) |
+| [0243-shortest-word-distance](https://github.com/viranca/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/viranca/Leetcode/tree/master/0246-strobogrammatic-number) |
 | [0271-encode-and-decode-strings](https://github.com/viranca/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0409-longest-palindrome](https://github.com/viranca/Leetcode/tree/master/0409-longest-palindrome) |
