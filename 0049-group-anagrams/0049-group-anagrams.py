@@ -1,11 +1,14 @@
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        ans = defaultdict(list)
+        anagram_groups = {}
+
         for word in strs:
-            sorted_word = ''.join(sorted(word))
-            ans[sorted_word].append(word)
-        return list(ans.values())
+            key = tuple(sorted(word))  # make sorted word into tuple
+            print(key)
+            if key in anagram_groups:
+                anagram_groups[key].append(word)
+            else:
+                anagram_groups[key] = [word]
 
-
-                
-                
+        return list(anagram_groups.values())
