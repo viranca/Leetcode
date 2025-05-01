@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/viranca/Leetcode/tree/master/0816-design-hashset) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/viranca/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/viranca/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/viranca/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/viranca/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/viranca/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
