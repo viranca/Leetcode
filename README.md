@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/viranca/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0409-longest-palindrome](https://github.com/viranca/Leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/viranca/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/viranca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/viranca/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/viranca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
