@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/viranca/Leetcode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/viranca/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/viranca/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/viranca/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/viranca/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
