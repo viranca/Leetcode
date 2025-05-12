@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/viranca/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/viranca/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/viranca/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viranca/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/viranca/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/viranca/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/viranca/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/viranca/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viranca/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/viranca/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viranca/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/viranca/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/viranca/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/viranca/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viranca/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/viranca/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/viranca/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -481,4 +485,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/viranca/Leetcode/tree/master/0257-binary-tree-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
