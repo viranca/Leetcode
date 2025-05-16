@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/viranca/Leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3778-transform-array-by-parity](https://github.com/viranca/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3778-transform-array-by-parity](https://github.com/viranca/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -375,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/viranca/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Union Find
 |  |
 | ------- |
