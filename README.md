@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/viranca/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3311-ant-on-the-boundary](https://github.com/viranca/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/viranca/Leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/viranca/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3311-ant-on-the-boundary](https://github.com/viranca/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Math
 |  |
 | ------- |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/viranca/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/viranca/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3311-ant-on-the-boundary](https://github.com/viranca/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
