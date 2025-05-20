@@ -1,16 +1,15 @@
 class Solution:
     def lastNonEmptyString(self, s: str) -> str:
         counts = Counter(s)
-        remove = counts.most_common()[0][1] - 1
-        removals = [0] * 26
+        max_freq = max(counts.values())
         
-        ans = ''
-        for i in range(len(s)):
-            if removals[ord(s[i]) - ord('z')] < remove:
-                removals[ord(s[i]) - ord('z')]+=1
-            else:
-                ans += s[i]
-        return ans
+        result = ""
+        seen = set()
         
-
-
+        # Traverse from right to left to capture the last occurrence
+        for ch in reversed(s):
+            if counts[ch] == max_freq and ch not in seen:
+                result = ch + result
+                seen.add(ch)
+        
+        return result
