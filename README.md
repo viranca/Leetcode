@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/viranca/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/viranca/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/viranca/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/viranca/Leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/viranca/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/viranca/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/viranca/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/viranca/Leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/viranca/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3778-transform-array-by-parity](https://github.com/viranca/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1149-intersection-of-three-sorted-arrays](https://github.com/viranca/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/viranca/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/viranca/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3778-transform-array-by-parity](https://github.com/viranca/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/viranca/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
