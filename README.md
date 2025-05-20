@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/viranca/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/viranca/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/viranca/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/viranca/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/viranca/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/viranca/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/viranca/Leetcode/tree/master/1656-count-good-triplets) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/viranca/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/viranca/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/viranca/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -509,4 +511,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/viranca/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
