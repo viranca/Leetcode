@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/viranca/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2128-reverse-prefix-of-word](https://github.com/viranca/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/viranca/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/viranca/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/viranca/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/viranca/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/viranca/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/viranca/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/viranca/Leetcode/tree/master/0768-partition-labels) |
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [2128-reverse-prefix-of-word](https://github.com/viranca/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
