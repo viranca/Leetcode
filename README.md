@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/viranca/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/viranca/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/viranca/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/viranca/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3359-linked-list-frequency](https://github.com/viranca/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/viranca/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-shortest-way-to-form-string](https://github.com/viranca/Leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/viranca/Leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [2128-reverse-prefix-of-word](https://github.com/viranca/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/viranca/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2561-number-of-distinct-averages](https://github.com/viranca/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/viranca/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
