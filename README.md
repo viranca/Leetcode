@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/viranca/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/viranca/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/viranca/Leetcode/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/viranca/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/viranca/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/viranca/Leetcode/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viranca/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/viranca/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/viranca/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/viranca/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/viranca/Leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/viranca/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/viranca/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/viranca/Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/viranca/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/viranca/Leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/viranca/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/viranca/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/viranca/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/viranca/Leetcode/tree/master/3311-ant-on-the-boundary) |
